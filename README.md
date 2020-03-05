@@ -1,2 +1,2 @@
 # LightsailLimitTraffic
-Lightsail超出流量自动关机
+python脚本
