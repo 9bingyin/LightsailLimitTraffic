@@ -1,0 +1,2 @@
+# LightsailLimitTraffic
+Lightsail超出流量自动关机
